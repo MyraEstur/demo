@@ -1,0 +1,235 @@
+16/8
+
+Channel to join and regroup eme 
+service desk- bug 
+jira board- kanban board - intergration ( developer) 
+ester and belinda eme tester 
+
+
+
+important Data engineering
+
+core- data- internal -OK
+
+join tayo ma 
+product- and - engineering ( join) - OK 
+evt-export- ortho -OK 
+evt-lm2- integrations- ok 
+evt-lm2- uploader -ok 
+evt0- reimagreatiob license manager -ok 
+evt- scale processing 2023 - ok 
+new- drones and sensors -ok 
+
+
+report and down 
+team- datadev -ok 
+tech-team( take note sa testing) --OK 
+
+alerts ( issues)
+bug stream - ok 
+company meetings - ok 
+cs-knowledge contents edits -ok 
+dev-emails ( staging envi emails eme) - ok 
+feature flag updates -ok 
+
+lidar - ok 
+lidar-request -ok 
+
+
+oracle test - ok 
+remote pc and it support - ok 
+technical release notes -ok 
+
+
+
+EVT ( projecr na 
+Accelerated processing - ok
+evt- pe bugs -ok 
+
+
+
+
+TOIL ------------ 
+
+NON-OKR day- non smaller pieces of work ( by weekly) 
+
+
+
+Activities
+
+Review GQAE SOP
+Especially Bugs Replication and Management
+
+Create a Github account and provide details to Rona
+Email: myra@propelleraero.com.au
+Password: myralaikacestur
+Username: MyraEstur
+
+Pick your emoji 
+
+SerialNumber
+7SZ7TV3
+
+
+Mainly about onboarding
+- Review GQAE SOP ( main focus)
+- Github account
+- choosing emoji
+Other tasks 
+- GQA team Catchup
+- Manila Team Drone Replay recording
+- Non-OKR day kickoff
+- Meet the GQAEs section coda
+- organizing slack channels 
+
+
+------------------------------------
+
+Regression questsion
+
+
+Mainly on Onboarding
+Reference Datasets
+Regression Test Plans questions
+Activities
+Download references
+Continue with previous activities
+Review CRS Admin Document and Explore CIUP
+
+Other task
+- continue in reviewing regression tests
+
+
+944bf025-f27f-4c1d-9de6-83527b29685a
+
+
+cd %HOMEPATH% && echo //registry.npmjs.org/:_authToken=944bf025-f27f-4c1d-9de6-83527b29685a > .npmrc
+
+
+dataset-download pqf6abdd4b
+
+eKYCqoiNQojFhNxgJ6gd8DxCEp9GGDKm
+
+
+
+----------------------GEOID12A 
+
+test point
+
+lat: 18-15-26 N - 18.2572222
+Long: 66-21-35 W - 66.3597222
+-39.1137080
+
+-39.11546 
+
+
+
+Topics:
+CRS Admin and Can I use Propeller? Questions
+Questions from previous activities
+Onboarding Activities
+Play around the tools
+Datadog
+Other Master Classes Review
+
+Other tasks
+- Continue previous activities
+- CRS
+- Reference datasets
+
+
+
+-----------------
+
+
+datadogs- 10 MB ang max 
+
+6247c40eb59ee16d8ad0bda852120082
+
+
+Review Lidar Upload Test Plan
+Review Point Cloud Classification
+Continue with previous activities
+Surge
+
+
+pqd94fcfcf
+
+
+---------------------------------------------------------------------
+
+launchdarkly- 1 password
+
+
+ uploading 
+
+- individual uploader
+- 3- point cloud into stratum
+	stratum- all point cloud classification
+
+-visoracle- platform
+
+
+
+Questions
+
+1. Sa lidar po may CRS po ba yun? 
+- kahit anung site CRS pwede siya makaupload nung data? 
+
+
+2. Sa add files or control point di po maganda if magkaroon ng indiviudal remove item if accidentally nalagyan ng ibang di naman kasali? 
+
+3. Di po pwede na drag yung folder same sa ibang data (e.g survey data)? 
+
+
+4. pag po iclick yung yung header (Add files, Add control points) mauulit po talaga siya from the top? 
+
+
+
+Questions 
+
+1. Paano po magbasa nung analytics part?
+
+2. bakit po still processing pa siya? may process pa po bang gagawin?
+
+
+network, segment
+
+
+
+
+
+VN-3686 Point Cloud Classification
+
+-Point size slider settings is saved when refreshed - di po nasasave if nagrefreshed 
+
+
+-----------------------------------------
+
+DEP 469
+
+- terra manual upload
+
+- upload and output
+
+- all the right place
+
+set as submitted 
+- upload files as source files
+- ortho, files, like a survey in control room ( normal point cloud request) 
+
+validations
+-file extensions, 
+- all required LAZ, LAS
+
+- ortho is still optional, 
+
+oracle???? 
+( file requirements- enhancement card) 
+
+all output muna bago magemail 
+
+-captured date should set the same in captured in the same site ( no time) 
+
+#datadev-alerts
+thing-streamer errors
